@@ -30,4 +30,4 @@ docker-compose up -d
 ```shell 
 docker-compose down
 ```
-### The site will be live on port 5000 by default
+### The site will be live on port 8000 by default
